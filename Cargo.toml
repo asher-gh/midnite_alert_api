@@ -1,0 +1,13 @@
+[package]
+name = "midnite_alert_api"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ashish"]
+description = "An alerting API service for monitoring user actions based on predefined rules."
+license = "MIT"
+repository = "https://github.com/your-github-username/midnite_alert_api"
+readme = "README.md"
+keywords = ["alerting", "API", "Rust", "Actix", "Redis"]
+categories = ["api-bindings", "network-programming", "web-programming"]
+
+[dependencies]
